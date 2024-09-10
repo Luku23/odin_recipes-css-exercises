@@ -1,0 +1,19 @@
+.odd{
+    background-color: lightpink;
+    font-family: Verdana, "DeJavu Sans", sans-serif;
+}
+
+.para{
+    font-size: 24px;
+}
+
+#nr2_div{
+    font-size: 36px;
+    color:blue;
+}
+
+#nr4_div{
+    font-weight: bold;
+    background-color: lightgreen;
+    font-size: 24px;
+}
